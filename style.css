@@ -1,0 +1,52 @@
+
+body {
+    font-family: sans-serif;
+}
+header {
+ background-color:black ;
+}
+
+ h1 {
+     color:white;
+     background-color: black;
+ }
+ footer {
+background-color: black;
+color: white;
+ }
+ footer p {
+     background-color:black;
+ }
+ nav a{
+     text-decoration: none;
+     margin: 73px;
+     color: white;
+     border-color: white;
+     border: 2px solid;
+     border-radius: 10px;
+     padding:5px;
+ }
+nav {
+    margin: 4px;
+    padding: 37px;
+    background-color: black;
+}
+b {
+    color: white;
+}
+main{
+    background-color: black;
+    color: white;
+}
+footer{
+    color: white;
+    background-color: black;
+}
+
+body {
+    color: white;
+    background-color: black;
+}
+.lmao {
+    color: pink;
+}
